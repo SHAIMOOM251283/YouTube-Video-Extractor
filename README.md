@@ -1,4 +1,4 @@
-# YouTube Scraper
+# YouTube Video Extractor
 
 ## Overview
 YouTube Scraper is a powerful tool designed to download YouTube videos effortlessly using the yt-dlp library. This project includes two distinct scripts, allowing users to download videos with default settings or by specifying a custom output path for greater flexibility.
